@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h4 align="center">想成為前端工程師 Wanna be a Front End Developer</h4>
 <p align="center">你好，我是童筱涵，在偶然接觸前端後，喜歡上開發挑戰的感覺</p>
 
-[![Judy's github stats](https://github-readme-stats.vercel.app/api?username=judytung&theme=gruvbox)](https://github.com/judytung/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=judytung&layout=compact&theme=gruvbox)](https://github.com/judytung/github-readme-stats)
+
 ***
 
 <h3>🌟網頁作品  Portfolio</h3>
