@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 <h3>網頁作品  Portfolio</h3>
 
-* [DOYOGA 瑜珈網站 ](https://judytung.github.io/DOYOGA/) - `SCSS` `BootStrap` `gulp` `aos` `Swiper`
-* [後台表單版型](https://judytung.github.io/backstage-form/) - `SCSS` `BootStrap` `JavaScript` `gulp` `CKEditor` 
+* [DOYOGA 瑜珈網站 ](https://judytung.github.io/DOYOGA/) - `SCSS` `BootStrap` `gulp` `ejs` `aos` `Swiper`
+* [後台表單版型](https://judytung.github.io/backstage-form/) - `SCSS` `BootStrap` `JavaScript` `ejs` `gulp` `CKEditor` 
 ***
 
 <h3>Medium 筆記文章</h3>
