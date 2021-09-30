@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hi! I'm Judy Tung 🙌 🙌</h1>
+#Hi! I'm Judy Tung 🙌 🙌
+<hr>
