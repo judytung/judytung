@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 
 <h3>💥Medium 筆記文章</h3>
 
+* [菜鳥五分鐘系列 — JavaScript 變數宣告 let、const、var](https://medium.com/@han03230205/%E8%8F%9C%E9%B3%A5%E4%BA%94%E5%88%86%E9%90%98%E7%B3%BB%E5%88%97-javascript-%E8%AE%8A%E6%95%B8%E5%AE%A3%E5%91%8A-let-const-var-926afb2d86d6)
 * [菜鳥五分鐘系列- JavaScript 變數作用域(Scope)是什麼](https://medium.com/@han03230205/%E8%8F%9C%E9%B3%A5%E4%BA%94%E5%88%86%E9%90%98%E7%B3%BB%E5%88%97-%E8%AE%8A%E6%95%B8%E4%BD%9C%E7%94%A8%E5%9F%9F-scope-%E6%98%AF%E4%BB%80%E9%BA%BC-22d2de38a21c)
 * [菜鳥五分鐘系列-簡單認識 Doctype](https://medium.com/@han03230205/%E8%8F%9C%E9%B3%A5%E4%BA%94%E5%88%86%E9%90%98%E7%B3%BB%E5%88%97-%E7%B0%A1%E5%96%AE%E8%AA%8D%E8%AD%98-doctype-3794b0f5d723)
 * [菜鳥五分鐘系列-使用 iframe 嵌入地圖](https://medium.com/@han03230205/%E8%8F%9C%E9%B3%A5%E4%BA%94%E5%88%86%E9%90%98%E7%B3%BB%E5%88%97-%E4%BD%BF%E7%94%A8-iframe-%E5%B5%8C%E5%85%A5%E5%9C%B0%E5%9C%96-16b51bf8e8c8)
