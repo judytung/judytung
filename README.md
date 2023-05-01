@@ -29,6 +29,10 @@ Here are some ideas to get you started:
 * [to do list](https://judytung.github.io/Hex_js/todoList.html) - `JavaScript` `SCSS` 
 ***
 
+<h3>🌟履歷 cakeresume</h3>
+* [我的履歷](https://www.cakeresume.com/hsiao-han-tung)
+***
+
 <h3>💥Medium 筆記文章</h3>
 
 * [JavaScript 觀念 (7) — 執行環境與作用域 — 執行緒與同步、非同步](https://medium.com/@han03230205/javascript-%E8%A7%80%E5%BF%B5-7-%E5%9F%B7%E8%A1%8C%E7%92%B0%E5%A2%83%E8%88%87%E4%BD%9C%E7%94%A8%E5%9F%9F-%E5%9F%B7%E8%A1%8C%E7%B7%92%E8%88%87%E5%90%8C%E6%AD%A5-%E9%9D%9E%E5%90%8C%E6%AD%A5-afa627545950?p=afa627545950)
