@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 
 <h3>💥Medium 筆記文章</h3>
 
+* [一鍵部署 github page](https://medium.com/@han03230205/%E4%B8%80%E9%8D%B5%E9%83%A8%E7%BD%B2-github-page-b475a5e7f28d)
 * [在 Windows 瀏覽器實現 macOS 的滾動條 !](https://medium.com/@han03230205/%E5%9C%A8-windows-%E7%80%8F%E8%A6%BD%E5%99%A8%E5%AF%A6%E7%8F%BE-macos-%E7%9A%84%E6%BB%BE%E5%8B%95%E6%A2%9D-eab91793e7de)
 * [JavaScript 觀念 (7) — 執行環境與作用域 — 執行緒與同步、非同步](https://medium.com/@han03230205/javascript-%E8%A7%80%E5%BF%B5-7-%E5%9F%B7%E8%A1%8C%E7%92%B0%E5%A2%83%E8%88%87%E4%BD%9C%E7%94%A8%E5%9F%9F-%E5%9F%B7%E8%A1%8C%E7%B7%92%E8%88%87%E5%90%8C%E6%AD%A5-%E9%9D%9E%E5%90%8C%E6%AD%A5-afa627545950?p=afa627545950)
 * [JavaScript 觀念 (3) — 執行環境與作用域 — 執行環境與執行堆疊](https://medium.com/@han03230205/javascript-%E8%A7%80%E5%BF%B5-3-%E5%9F%B7%E8%A1%8C%E7%92%B0%E5%A2%83%E8%88%87%E4%BD%9C%E7%94%A8%E5%9F%9F-%E5%9F%B7%E8%A1%8C%E7%92%B0%E5%A2%83%E8%88%87%E5%9F%B7%E8%A1%8C%E5%A0%86%E7%96%8A-c0c78b6e32bc?p=c0c78b6e32bc8)
-* [菜鳥五分鐘系列 — JavaScript 變數宣告 let、const、var](https://medium.com/@han03230205/%E8%8F%9C%E9%B3%A5%E4%BA%94%E5%88%86%E9%90%98%E7%B3%BB%E5%88%97-javascript-%E8%AE%8A%E6%95%B8%E5%AE%A3%E5%91%8A-let-const-var-926afb2d86d6)
 * [菜鳥五分鐘系列- JavaScript 變數作用域(Scope)是什麼](https://medium.com/@han03230205/%E8%8F%9C%E9%B3%A5%E4%BA%94%E5%88%86%E9%90%98%E7%B3%BB%E5%88%97-%E8%AE%8A%E6%95%B8%E4%BD%9C%E7%94%A8%E5%9F%9F-scope-%E6%98%AF%E4%BB%80%E9%BA%BC-22d2de38a21c)
